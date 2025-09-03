@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá, eu sou o Victor Cerqueira!<br>🚀 Estudante de Engenharia de Software | Backend Developer<br><br>🎓 Atualmente cursando o 5º período de Engenharia de Software no iCEV - Instituto de Ensino Superior, onde busco aprimorar constantemente minhas habilidades técnicas e colaborativas.<br><br>💻 O que faço:<br><br>Desenvolvimento backend com PhP, Python e JavaScript<br>Uso de frameworks como Laravel e Django<br>Gerenciamento de bancos de dados como MySQL<br>Controle de versão eficiente com Git
+👋 Olá, eu sou o Victor Cerqueira!<br>🚀 Estudante de Engenharia de Software | Backend Developer<br><br>🎓 Atualmente cursando o 6º período de Engenharia de Software no iCEV - Instituto de Ensino Superior, onde busco aprimorar constantemente minhas habilidades técnicas e colaborativas.<br><br>💻 O que faço:<br><br>Desenvolvimento backend com PhP, Python e JavaScript<br>Uso de frameworks como Laravel e Django<br>Gerenciamento de bancos de dados como MySQL<br>Controle de versão eficiente com Git
 
 
 ## 🌐 Socials:
