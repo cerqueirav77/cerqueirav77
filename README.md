@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-██╗   ██╗██╗ ██████╗████████╗ ██████╗ ██████╗
-██║   ██║██║██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗
-██║   ██║██║██║        ██║   ██║   ██║██████╔╝
-╚██╗ ██╔╝██║██║        ██║   ██║   ██║██╔══██╗
- ╚████╔╝ ██║╚██████╗   ██║   ╚██████╔╝██║  ██║
-  ╚═══╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-```
-
 # Victor Cerqueira
 
 **Backend Developer · Software Engineering Student**
@@ -19,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-cerqueira-178947138/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/victorsz)
-[![Profile Views](https://visitcount.itsvg.in/api?id=cerqueirav77&icon=0&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
